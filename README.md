@@ -1,2 +1,2 @@
 # coursera-test
-A coursera test repository
+A repository for Coursera Web Dev work
