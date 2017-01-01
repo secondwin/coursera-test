@@ -57,8 +57,13 @@ header h1 {
   margin-bottom: 15px;
 }
 
-#menu-title-1 {
+.menu-title {
   font-weight: bold;
   font-size: 1.25em;
   text-align: center;
+}
+
+a.back-to-top {
+  text-align: right;
+  text-decoration: none;
 }
