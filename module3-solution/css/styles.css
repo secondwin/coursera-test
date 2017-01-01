@@ -47,6 +47,11 @@ header h1 {
   background: #F29B88;
 }
 
+div.menu-box {
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+}
+
 #menu-tile {
   border: 2px solid black;
   background-color: #FFFAF0;
